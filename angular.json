@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "DraggableCards"
+    }
+  },
+  "defaultProject": "DraggableCards",
+  "cli": {
+    "analytics": "99584576-03ee-44f4-a1bf-8c77f6bd1938"
+  }
 }
